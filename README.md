@@ -1,1 +1,15 @@
-# Software-Engineering-Assignment
+# 软件工程作业
+---
+
+## 团队成员
+ [陈天池](./chentianchi.md)
+ [吴义铭](./wuyiming.md)
+
+ ## 团队logo
+ ![logo](./logo.png)
+ >生成关键词:帮我生成一个海边灯塔的图片,要求包含礁石,夜景,像素风,
+ 使用AI:chatgpt
+
+ 团队概念:希望团队能成为成员们在软件工程学习的海洋中的引路明灯
+
+ 
