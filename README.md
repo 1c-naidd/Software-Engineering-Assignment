@@ -2,8 +2,8 @@
 ---
 
 ## 团队成员
- [陈天池](./chentianchi.md)
- [吴义铭](./wuyiming.md)
+ [陈天池](./members/chentianchi.md)
+ [吴义铭](./members/wuyiming.md)
 
  ## 团队logo
  ![logo](./logo.png)
