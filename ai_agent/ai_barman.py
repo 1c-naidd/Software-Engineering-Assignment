@@ -214,6 +214,7 @@ Action的格式必须是以下之一：
 - 当收集到足够信息可以回答用户问题时，必须使用 Action: Finish[最终答案] 格式结束
 - 使用工具时需要把关键词翻译为英文
 - 当推荐一款鸡尾酒时,给出它的配方
+- 输出最终答案时输出中文
 
 请开始吧！
 """
@@ -223,7 +224,7 @@ prompt_history = [f"用户请求: {user_prompt}"]
 print(f"用户输入: {user_prompt}\n" + "="*40)
 
 # --- 3. 运行主循环 --
-for i in range(5): # 设置最大循环次数
+for i in range(6): # 设置最大循环次数
     print(f"--- 循环 {i+1} ---\n")
     # 3.1. 构建Prompt
     full_prompt = "\n".join(prompt_history)
